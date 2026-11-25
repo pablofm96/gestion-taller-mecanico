@@ -1,0 +1,22 @@
+# Java y Maven
+target/
+*.class
+*.jar
+*.war
+
+# Entornos y configuraciones
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
