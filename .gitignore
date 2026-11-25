@@ -20,3 +20,6 @@ npm-debug.log*
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Configuracion local de Spring Boot
+backend/src/main/resources/application.properties
